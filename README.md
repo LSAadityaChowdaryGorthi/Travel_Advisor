@@ -1,3 +1,4 @@
 # Travel_Advisor
 
-https://github.com/LSAadityaChowdaryGorthi/Travel_Advisor/deployments/github-pages
+https://travel-advisor-sunny.netlify.app/
+
